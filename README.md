@@ -70,7 +70,7 @@ As we had to navigate between pages, we also incorporated Selenium framework.As 
 The below activity diagram illustrates the flow along with all the request,response,funations and the different tables generated as part of the whole flow.
 
 <p align="center">
-<img width="800" height="300" src="Images/FlowDiagram.png" width=400>
+<img width="800" height="600" src="Images/FlowDiagram.png" width=400>
 </p>
 
 ## Data Construction
