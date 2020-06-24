@@ -225,12 +225,20 @@ The data acquisition, preprocessing and integration of the dataset gives a final
 
 We selected **Amazon** as the Company and **Business Analyst** as the role to construct our dataset.
 1. We observe that **Mu Sigma Inc,MicroSoft,EY** were the few previous employers of good number of employees of Amazon.
-2. Only 5 out of more than 450 employees were having no previous work experience.It signifies the importance of previous work experience to get into Amazon as a Business Analyst.
-3. Majority of the empoyee had experience between **1 and 5 years**.
-4. **Masters degree** seems to be an importart factor to get employed as a Business Analyst at Amazon.
-5. **University of Washington, Northeaster University and UTD** are the top Universities. These information would help any student to decide on the universities they want to attend.
-6. **SQL, Data ANalysis, Microsoft Excel, Mocrosoft Office Python and R** are the top skills required to be successful as a Business Analyst.
+<img width="400" height="300" src="Images/Company.png" width=400>
 
+2. Only 5 out of more than 450 employees were having no previous work experience.It signifies the importance of previous work experience to get into Amazon as a Business Analyst.
+
+3. Majority of the empoyee had experience between **1 and 5 years**.
+
+4. **Masters degree** seems to be an importart factor to get employed as a Business Analyst at Amazon.
+<img width="400" height="300" src="Images/Degree.png" width=400>
+
+5. **University of Washington, Northeaster University and UTD** are the top Universities. These information would help any student to decide on the universities they want to attend.
+<img width="400" height="300" src="Images/University.png" width=400>
+
+6. **SQL, Data ANalysis, Microsoft Excel, Mocrosoft Office Python and R** are the top skills required to be successful as a Business Analyst.
+<img width="400" height="300" src="Images/Skills.png" width=400>
 
 
 ## Challenges 
