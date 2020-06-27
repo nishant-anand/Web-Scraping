@@ -291,5 +291,4 @@ We selected **Amazon** as the Company and **Business Analyst** as the role to co
 
 7. Due to company's Terms of Use, this data cannot be used for any commercial/publishing purpose as mentioned in the disclaimer.
 
-
 <span style="color:red">Disclaimer : This project and data is purely used for academic term-project purpose and will not used for any commercial/publishng purpose based on company's Terms of Use.</span>
